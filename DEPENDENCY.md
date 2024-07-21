@@ -9,13 +9,13 @@ Berikut adalah daftar dependensi utama yang digunakan dalam proyek ini, dikelomp
 | 📦 Paket | 🔢 Versi | 📊 Kategori | 🔗 Dokumentasi & Deskripsi |
 |----------|---------|------------|---------------------------|
 | laravel/socialite | ^5.6 | require | [Docs](https://laravel.com/docs/socialite) • [Info](https://laravel.com/docs/socialite#introduction) |
-| laravel/sanctum | ^3.2 | require | [Docs](https://laravel.com/docs/sanctum) • [Info](https://laravel.com/docs/sanctum#introduction) |
+| laravel/sanctum | ^4.0 | require | [Docs](https://laravel.com/docs/sanctum) • [Info](https://laravel.com/docs/sanctum#introduction) |
 
 ### Spatie 🛡️
 
 | 📦 Paket | 🔢 Versi | 📊 Kategori | 🔗 Dokumentasi & Deskripsi |
 |----------|---------|------------|---------------------------|
-| spatie/laravel-permission | ^6.0 | require | [Docs](https://spatie.be/docs/laravel-permission/v6/introduction) • [Info](https://github.com/spatie/laravel-permission#introduction) |
+| spatie/laravel-permission | ^6.9 | require | [Docs](https://spatie.be/docs/laravel-permission/v6/introduction) • [Info](https://github.com/spatie/laravel-permission#introduction) |
 | spatie/laravel-ignition | ^2.0 | require-dev | [Docs](https://spatie.be/docs/ignition/introduction) • [Info](https://github.com/spatie/laravel-ignition#introduction) |
 
 ### Yajra 📊
@@ -28,7 +28,7 @@ Berikut adalah daftar dependensi utama yang digunakan dalam proyek ini, dikelomp
 
 | 📦 Paket | 🔢 Versi | 📊 Kategori | 🔗 Dokumentasi & Deskripsi |
 |----------|---------|------------|---------------------------|
-| itsgoingd/clockwork | ^5.1 | require-dev | [Docs](https://underground.works/clockwork/) • [Info](https://github.com/itsgoingd/clockwork#clockwork) |
+| itsgoingd/clockwork | ^5.2 | require-dev | [Docs](https://underground.works/clockwork/) • [Info](https://github.com/itsgoingd/clockwork#clockwork) |
 
 ## 📋 Catatan Tambahan:
 - Versi yang tercantum adalah versi minimum yang direkomendasikan.
